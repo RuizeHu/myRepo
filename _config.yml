@@ -27,6 +27,14 @@ url: "https://ruizehu.github.io" # the base hostname & protocol for your site, e
 twitter_username: ruizehu
 github_username:  ruizehu
 
+# author
+author: Mark Hu
+linkedin_username: mark-ruize-hu-57524869
+#linkedin_username:
+
+# copyright: a copyright symbol and year will be added automatically
+copyright: "MarkHu.LLC"
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
